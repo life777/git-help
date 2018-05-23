@@ -1,6 +1,19 @@
 # Git cheatsheet
 
+|Menu                                    |
+|----------------------------------------|
+|[Aliases](#aliases)                     |
+|[History](#history)                     |
+|[Differences](#differences)             |
+|[Commiting](#commiting)                 |
+|[Rebasing](#rebasing)                   |
+|[File and branches](#file-and-branches) |
+|[Merge](#merge)                         |
+|[Binary search](#binary-search)         |
+|[Working tree](#working-tree)           |
+
 ## Aliases
+
 To stop all argues between developers and sleepless nights due to merging/rebasing someones wrong code style configure your git
 
     git config core.whitespace "blank-at-eol,blank-at-eof,tab-in-indent"
